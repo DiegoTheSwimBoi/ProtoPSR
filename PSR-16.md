@@ -1,1 +1,1 @@
-# PSR-16: Common Interface for Caching Libraries
+# PSR-16: Общий интерфейс для кэширующих библиотек.
